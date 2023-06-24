@@ -1,0 +1,8 @@
+{
+  "server_url": "none",
+  "header": "",
+  "debounce": 5,
+  "localJar": "C:\\Users\\Chaos\\AppData\\Local\\Obsidian\\plantuml\\plantuml.jar",
+  "javaPath": "java",
+  "defaultProcessor": "svg"
+}

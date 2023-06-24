@@ -1,0 +1,25 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "showInlineTitle": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Resources",
+  "autoPairBrackets": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "smartIndentList": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

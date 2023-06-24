@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "447da3912e718808",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ac9076d72f74d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa9676e1bd599a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "已读文献/A feature-based data association method for multiple acoustic source localization in a distributed microphone array.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5acfdcacbe3e68f",
+    "type": "split",
+    "children": [
+      {
+        "id": "945b1002dbb19992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3689852b5cae007",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "57b25058650fa966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06b007cb5184dc5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a7308825567f94f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce00962efa0b8283",
+    "type": "split",
+    "children": [
+      {
+        "id": "28bc241c18df118b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d7e3f410c4382f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "已读文献/A feature-based data association method for multiple acoustic source localization in a distributed microphone array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b99929353b94c9e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "已读文献/A feature-based data association method for multiple acoustic source localization in a distributed microphone array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c83ca17abde0ef3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9edbe52ccca158c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "已读文献/A feature-based data association method for multiple acoustic source localization in a distributed microphone array.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false
+    }
+  },
+  "active": "baa9676e1bd599a2",
+  "lastOpenFiles": [
+    "Software/项目进展.md",
+    "Resources/paper/A_Decision-making_Method_for_Defibrillation_Based_on_SVM_and_Opt-AMSA.pdf",
+    "已读文献/DOA estimation based on CNN for underwater acoustic array.md",
+    "Resources/Paper/DOA estimation based on CNN for underwater acoustic array.pdf",
+    "Windows/Tmux使用手册.md",
+    "已读文献/A Decision making Method for Defibrillation Based on SVM and Opt-AMSA.md",
+    "Windows/OpenSSH.md",
+    "Windows/从PowerPoint导出高dpi幻灯片.md",
+    "Windows/切换深色模式.md",
+    "Windows/vbs脚本切换深色模式.md",
+    "Software/样机系统软件HIPO图.md",
+    "Software/230209对接.md",
+    "Software/插件管理模块架构.md",
+    "Software/环境文件相似度比对想法.md",
+    "Software/数据集文件格式设计文档.md",
+    "Software/230223界面讨论.md",
+    "Software/230217对接.md",
+    "Software/算法模块封装文档.md",
+    "Resources/Template/文献阅读.md",
+    "已读文献/多传感器多目标轨迹相关与数据合成若干关键技术研究.md",
+    "未命名",
+    "已读文献/浅探水声信号处理中的多传感器数据融合.md",
+    "已读文献/以作战仿真评估 UUV 集群作战效能.md",
+    "已读文献/水声信号处理中的多传感器数据融合.md",
+    "已读文献/支持算法插件化的通用推荐服务框架的设计与实现.md",
+    "已读文献/分布式交互仿真模拟技术的研究及起再深水海洋平台锚泊操作模拟中的应用.md",
+    "Windows/Termux配置.md",
+    "Notebook/Mat文件格式文档.md",
+    "未命名.canvas",
+    "Software/系统结构图.wsd"
+  ]
+}
